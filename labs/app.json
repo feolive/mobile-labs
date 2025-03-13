@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "lab_3",
-    "slug": "lab_3",
+    "name": "labs",
+    "slug": "labs",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

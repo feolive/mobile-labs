@@ -18,6 +18,11 @@ export default function Home() {
             }}>
                 <Text style={styles.text}>Lab 5</Text>
             </TouchableOpacity>
+            <TouchableOpacity style={styles.btn} onPress={() => {
+                router.push("/lab6")
+            }}>
+                <Text style={styles.text}>Lab 6</Text>
+            </TouchableOpacity>
         </View>
     );
 }
